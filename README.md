@@ -46,13 +46,14 @@ Both UI/UX designers work with the team throughout the development lifecycle, he
 
 # Database Design.
 1. Users.
-   User name, User ID.
+   User name, User ID, User email.
 2. Properties.
    Property name, Property Location, Property type.
 3. Booking.
-4. Reviews.
-5. Payments.
-   Payment platform
+   Date of booking.
+5. Reviews.
+6. Payments.
+   Payment platform, Amount.
 
 # Feature Breakdown.
 1. User Management System- Implements a secure system for user regisration, authentication, and profile management.
