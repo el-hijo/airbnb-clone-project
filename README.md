@@ -44,3 +44,9 @@ Both UI/UX designers work with the team throughout the development lifecycle, he
 7. Docker- Containerization tool for consistent development and deployment environments.
 8. CI/CD Pipelines- Automated pipelines for testing and deploying code changes.
 
+# Database Design.
+1. Users.
+2. Properties.
+3. Booking.
+4. Reviews.
+5. Payments. 
