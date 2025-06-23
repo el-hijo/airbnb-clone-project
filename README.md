@@ -55,7 +55,7 @@ Both UI/UX designers work with the team throughout the development lifecycle, he
    Payment platform
 
 # Feature Breakdown.
-1. User Management System- Implements a secure system for user registration, authentication, and profile management.
+1. User Management System- Implements a secure system for user regisration, authentication, and profile management.
 2. Property Management System- Develops features for property listing creation, updates, and retrieval.
 3. Booking System- Creates a booking mechanism for users to reserve properties and manage booking details.
 4. Payment Processing -Integrates a payment system to handle transactions and record payment details.
@@ -66,3 +66,19 @@ Both UI/UX designers work with the team throughout the development lifecycle, he
 1. Authentication: This identify who is making the request.
 2. Authorization: This determines what they’re allowed to do.
 3. Rate Limiting: Limits the number of requests to	prevent abuse and overuse.
+
+# CI/CD Pipelines. 
+CI/CD stands for Continuous Integration and Continuous Delivery/Deployment. 
+CI/CD pipeline is a series of automated processes that enable software development teams to frequently integrate code changes and deliver them to production, ensuring faster and more reliable software releases. 
+Benefits of CI/CD Pipelines.
+1. Faster delivery.
+2. Improved quality.
+3. Reduced risk.
+4. Increased collaboration.
+Tools that can be used for CI/CD Pipelines include:
+1. Jenkins.
+2. Bamboo.
+3. GitHub Actions.
+4. Gitlab.
+5. Dockers.
+6. Circleci.
